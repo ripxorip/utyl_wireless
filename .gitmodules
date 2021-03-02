@@ -1,0 +1,6 @@
+[submodule "hw/kicad/libs/remote_libs"]
+	path = hw/kicad/libs/remote_libs
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "hw/kicad/libs/keyboard_parts_fotprints"]
+	path = hw/kicad/libs/keyboard_parts_fotprints
+	url = https://github.com/tmk/keyboard_parts.pretty.git
